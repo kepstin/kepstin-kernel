@@ -1,9 +1,10 @@
 #!/bin/bash
 
 arch="$(uname -m)"
+config_path="$(dirname $0)"
 
 scripts/kconfig/merge_config.sh \
-	"fedora-kernel/kernel-${arch}-fedora.config" \
-	"gentoo-kernel-config/base.config" \
-	"gentoo-kernel-config/no-debug.config" \
-	"config"
+	"${config_path}/fedora-kernel/kernel-${arch}-fedora.config" \
+	"${config_path}/gentoo-kernel-config/base.config" \
+	"${config_path}/gentoo-kernel-config/no-debug.config" \
+	"${config_path}/config"
