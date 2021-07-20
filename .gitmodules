@@ -1,0 +1,6 @@
+[submodule "gentoo-kernel-config"]
+	path = gentoo-kernel-config
+	url = https://github.com/mgorny/gentoo-kernel-config
+[submodule "fedora-kernel"]
+	path = fedora-kernel
+	url = https://src.fedoraproject.org/rpms/kernel.git
