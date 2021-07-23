@@ -12,9 +12,7 @@
 # CONFIG_BEFS_FS is not set
 # CONFIG_BLK_DEV_PCIESSD_MTIP32XX is not set
 # CONFIG_BLK_DEV_RBD is not set
-# CONFIG_BLK_DEV_SKD is not set
 # CONFIG_BLK_DEV_SX8 is not set
-# CONFIG_BLK_DEV_UMEM is not set
 # CONFIG_CAN is not set
 # CONFIG_CFG80211_WEXT is not set
 # CONFIG_CHR_DEV_SCH is not set
@@ -24,11 +22,12 @@
 # CONFIG_CRYPTO_DEV_ATMEL_ECC is not set
 # CONFIG_CRYPTO_DEV_ATMEL_SHA204A is not set
 # CONFIG_CRYPTO_DEV_PADLOCK is not set
-# CONFIG_DEBUG_INFO_BTF is not set
+# CONFIG_CXL_BUS is not set
 CONFIG_DEFAULT_HOSTNAME="(none)"
 # CONFIG_DNET is not set
 # CONFIG_DRM_ANALOGIX_ANX78XX is not set
 # CONFIG_DRM_GMA500 is not set
+# CONFIG_DRM_GUD is not set
 # CONFIG_DRM_MGAG200 is not set
 # CONFIG_DRM_VBOXVIDEO is not set
 # CONFIG_DRM_VMWGFX is not set
