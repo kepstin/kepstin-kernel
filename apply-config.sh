@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Copyright (C) 2022 Calvin Walton
+# Distributed under the terms of the GNU General Public License v2
+# See the LICENSE file for details.
+
 arch="$(uname -m)"
 config_path="$(dirname $0)"
 
