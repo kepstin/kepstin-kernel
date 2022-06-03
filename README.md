@@ -1,3 +1,5 @@
+branch: 5.18 (stable)
+
 # kepstin's kernel konfig
 
 Note that this repository contains submodules. In order to clone it, run the
