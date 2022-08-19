@@ -1,4 +1,4 @@
-branch: 5.18 (stable)
+branch: 5.19 (stable)
 
 # kepstin's kernel konfig
 
