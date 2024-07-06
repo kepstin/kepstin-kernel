@@ -1,4 +1,4 @@
-branch: 6.8 (stable)
+branch: 6.9 (stable)
 
 # kepstin's kernel konfig
 
