@@ -1,4 +1,4 @@
-branch: 6.12 (longterm)
+branch: 6.18 (longterm)
 
 # kepstin's kernel konfig
 
