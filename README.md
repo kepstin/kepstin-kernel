@@ -1,4 +1,4 @@
-branch: 7.2 (stable)
+branch: 7.3 (stable)
 
 # kepstin's kernel konfig
 
